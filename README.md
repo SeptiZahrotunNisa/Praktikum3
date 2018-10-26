@@ -1,17 +1,17 @@
 # Praktikum3
 
-##Latihan1.cpp
+## Latihan1.cpp
 
-**Alur Algoritma
-1. Mendeklarasikan Variabel int a, max, n sebagai sebagai Variabel input
-2. Membaca input dari keyboard cin >> n
+**Alur Algoritma**
+1. Mendeklarasikan Variabel `int a, max, n` sebagai sebagai Variabel input
+2. Membaca input dari keyboard `cin >> n`
 3. Membandingkan nilai Variabel **A** dengan Variabel **max** jika **a>max**
 4. Bandingkan kembali kedua Variabel sebanyak jumlah **n** atau bilangan yang di input
 5. Sampai menemukan hasil **a=max** maka cetaklah 
 6. Cetak bilangan terbesar dari semua bilangan yang di inputkan
 
 **Flowchart Program**
-
+![png](https://raw.githubusercontent.com/SeptiZahrotunNisa/Praktikum3/master/Latihan1/Flowchart1.png)
 
 **Code Program**
 ```c++
@@ -40,13 +40,13 @@ int main() {
 ```
 
 **Hasil**
+![png](https://raw.githubusercontent.com/SeptiZahrotunNisa/Praktikum3/master/Latihan1/Cmd1.png)
 
-
-##Latihan2.cpp
+## Latihan2.cpp
 
 **Alur Algoritma**
-1. Mendeklarasikan Variabel int A, B, C sebagai Variabel input
-2. Membaca input dari keyboard cin >> A >> B >> C
+1. Mendeklarasikan Variabel `int A, B, C` sebagai Variabel input
+2. Membaca input dari keyboard `cin >> A >> B >> C`
 3. Membandingkan nilai Variabel **A** dengan Variabel **B** jika A lebih kecil dari pada B
 4. Bandingkan kembali variabel B dengan C
 5. Jika kondisi TRUE maka cetaklah bilangan secara berurutan dari yang Terkecil-Terbesar yaitu **A,B,C**
@@ -61,7 +61,7 @@ int main() {
 14 END
 
 **Flowchart Program**
-
+![png](https://raw.githubusercontent.com/SeptiZahrotunNisa/Praktikum3/master/Latihan2/Flowchart2.png)
 
 **Code Program**
 ```c++
@@ -98,13 +98,13 @@ int main() {
 }
 ```
 **Hasil**
+![png](https://raw.githubusercontent.com/SeptiZahrotunNisa/Praktikum3/master/Latihan2/Cmd2.png)
 
-
-##Latiham3.cpp
+## Latihan3.cpp
 
 **Alur Algoritma**
-1. Mendeklarasikan Variabel int A, B, C sebagai variabel input 
-2. Membaca input dari keyboard cin >> A >> B >> C
+1. Mendeklarasikan Variabel `int A, B, C` sebagai variabel input 
+2. Membaca input dari keyboard `cin >> A >> B >> C`
 3. Membandingkan nilai Variabel **A** dengan Varibel **B** jika sama
 4. Bandingkan kembali Variabel A dengan Variabel C
 5. Jika kondisi TRUE atau ketiga Variabel sama maka Cetaklah **SEGITIGA SAMA SISI**
@@ -115,7 +115,7 @@ int main() {
 10. END
 
 **Flowchart Program**
-
+![png](https://raw.githubusercontent.com/SeptiZahrotunNisa/Praktikum3/master/Latihan3/Flowchart3.png)
 
 **Code Program**
 ```c++
@@ -151,3 +151,4 @@ int main()
     }
 ```
 **Hasil
+![png](https://raw.githubusercontent.com/SeptiZahrotunNisa/Praktikum3/master/Latihan3/Cmd3.png)
